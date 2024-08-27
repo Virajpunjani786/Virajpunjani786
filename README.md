@@ -3,6 +3,7 @@
 
 **<h2>💼 My Experience</h2>**
 *<h3>SOC Analyst @ La Trobe University</h3>*
+<p>Aug 2023 - Nov 2023<br/>Bundoora, Victoria, Australia | On-site</p>
 
 **<h2>📺 YouTube Videos I take inspiration from:</h2>**
 
