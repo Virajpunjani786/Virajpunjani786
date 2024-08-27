@@ -1,7 +1,7 @@
 <h1>Hi, I'm Viraj! <br/><a href="https://github.com/Virajpunjani786">Programmer</a>, <a href="https://www.linkedin.com/in/viraj-punjani/">Cybersecurity Professional</a>, <a href="">Quality Assurance Analyst</a></h1>
 <!-- test -->
 <h2>💼 My Experience</h2>
-<h3>SOC Analyst</h3><h4>La Trobe University</h4>
+<div><h3>SOC Analyst</h3><h4>La Trobe University</h4></div>
 
 <h2>📺 YouTube Videos I take inspiration from:</h2>
 
