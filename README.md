@@ -6,6 +6,8 @@
 <p>Aug 2023 - Nov 2023<br/>Bundoora, Victoria, Australia | On-site</p>
 
 ---
+*<h3>Quality Assurance Intern @ Captivate Connect</h3>*
+<p>Jul 2023 - Nov 2023<br/>Burswood, WA, Australia | Remote</p>
 
 **<h2>📺 YouTube Videos I take inspiration from:</h2>**
 
