@@ -9,6 +9,14 @@
 *<h3>Quality Assurance Intern @ Captivate Connect</h3>*
 <p>Jul 2023 - Nov 2023<br/>Burswood, WA, Australia | Remote</p>
 
+---
+*<h3>Risk Analyst Intern @ Practera</h3>*
+<p>Jul 2022 - Oct 2022<br/>Melbourne, Victoria, Australia | Remote</p>
+
+---
+*<h3>Cyber Security Specialist Intern @ Krydence</h3>*
+<p>Dec 2018 - Feb 2019<br/>Gujarat, India | On-site</p>
+
 **<h2>📺 YouTube Videos I take inspiration from:</h2>**
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
