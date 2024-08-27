@@ -1,7 +1,8 @@
 <h1>Hi, I'm Viraj! <br/><a href="https://github.com/Virajpunjani786">Programmer</a>, <a href="https://www.linkedin.com/in/viraj-punjani/">Cybersecurity Professional</a>, <a href="">Quality Assurance Analyst</a></h1>
 <!-- test -->
+
 **<h2>💼 My Experience</h2>**
-<h3>SOC Analyst @ La Trobe University</h3>
+*<h3>SOC Analyst @ La Trobe University</h3>*
 
 **<h2>📺 YouTube Videos I take inspiration from:</h2>**
 
@@ -11,7 +12,7 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-## ** 🤳 Connect with me:**
+**<h2> 🤳 Connect with me:</h2>**
 
 [<img align="left" alt="VirajPunjani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="VirajPunjani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
