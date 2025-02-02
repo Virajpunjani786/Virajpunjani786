@@ -1,58 +1,99 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I am Viraj Punjani
 
-[Brief Introduction - Remove this afterwards]
+Welcome to my space:
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Aspiring cybersecurity professional with 1+ years of experience through internships and personal projects. Skilled in SOC operations, incident detection & response, and threat management using SIEM tools like Splunk, Microsoft Defender, Sentinel One, and Elastic Stack. Currently pursuing Security+, SC-200, and BTL1 certifications, aiming to transition into a SOC Tier 1 Analyst role.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Elastic Stack SIEM Configuration and Management        | <a href="https://google.com">Home Lab SIEM Setup</a> |
+| Malware Analysis and Digital Forensics Using Splunk    | <a href="https://google.com">BOTSv1 Threat Analysis</a> |
+| Active Directory Attack Simulation & Threat Detection  | <a href="https://google.com">AD Threat Detection Lab</a> |
+| Social Engineering Investigation                       | <a href="https://google.com">ANZ Remote Phishing Analysis</a> |
+| Penetration Testing & Vulnerability Assessment         | <a href="https://google.com">Latrobe University Pentest Report</a> |
+| IT Infrastructure Migration & Security Enhancement     | <a href="https://google.com">Captivate Connect Capstone Project</a> |
+| Risk Assessment & Compliance                          | <a href="https://google.com">Arrow Leadership Security Audit</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
+🔍 SIEM Tools
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />  
+<img src="https://img.shields.io/badge/-MS_365_Defender-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-SentinelOne-5C2D91?&style=for-the-badge&logo=sentinelone&logoColor=white" /> 
 </div>
 
-### Endpoint
+---
+
+### 🛡 Endpoint Security
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nessus-00A3E0?&style=for-the-badge&logo=tenable&logoColor=white" />   
+<img src="https://img.shields.io/badge/-SentinelOne-5C2D91?&style=for-the-badge&logo=sentinelone&logoColor=white" />  
+<img src="https://img.shields.io/badge/-MS_365_Defender-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" /> 
 </div>
 
-### SIEM
+---
+
+### 🌐 Network Security & Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Nmap-004571?&style=for-the-badge&logo=nmap&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-MITRE_ATT&CK-EF3B2D?&style=for-the-badge&logo=mitre&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Cyber_Kill_Chain-FF6F00?&style=for-the-badge&logoColor=white" />
 </div>
+
+---
+
+### ⚙ Other Security & Compliance Tools
+<div>
+<img src="https://img.shields.io/badge/-NIST-000000?&style=for-the-badge&logoColor=white" />  
+<img src="https://img.shields.io/badge/-ISO_27001-0057B8?&style=for-the-badge&logoColor=white" />
+</div>
+
+---
+
+### 💻 Operating Systems & Development Tools
+
+<div>
+<img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />  
+<img src="https://img.shields.io/badge/-Mac-999999?&style=for-the-badge&logo=apple&logoColor=white" />  
+</div>
+
+---
+
+### 🛠 Programming & Scripting
+
+<div>
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />  
+<img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
+
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-0000FF?&style=for-the-badge&logo=Security-blue-team&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-F4B400?&style=for-the-badge&logo=Google&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Microsoft%20Certified%20Security%2C%20Compliance%20and%20Identity%20Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Microsoft%20365%20Certified%20Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Microsoft%20Certified%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-SOC%20Analyst%20Pathway%20by%20Let's%20Defend-00A4A6?&style=for-the-badge&logo=Let's%20Defend&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Splunk%20Certified%20Cybersecurity%20Defense%20Analyst-0072CE?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Projects
