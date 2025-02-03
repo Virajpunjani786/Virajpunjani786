@@ -113,9 +113,8 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 **<h2> 🤳 Connect with me:</h2>**
 
 [<img align="left" alt="VirajPunjani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VirajPunjani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/viraj_punjani/
+
 [linkedin]: https://www.linkedin.com/in/viraj-punjani/
 <!--
 
