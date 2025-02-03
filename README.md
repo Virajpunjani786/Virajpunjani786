@@ -1,4 +1,4 @@
-# Hi, I am Viraj Punjani
+# Hi, I'm Viraj Punjani
 
 Welcome to my space:
 
@@ -33,7 +33,6 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 <img src="https://img.shields.io/badge/-SentinelOne-5C2D91?&style=for-the-badge&logo=sentinelone&logoColor=white" />  
 <img src="https://img.shields.io/badge/-MS_365_Defender-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" /> 
 </div>
-
 ---
 
 ### 🌐 Network Security & Analysis
@@ -73,8 +72,6 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-
-
 ## Certifications
 
 <div>
@@ -106,9 +103,6 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 - Build your own Host-based Intrusion Detection System (IDS)
 - Systems Project for Captivate Connect
 - Risk Assessment Audit & Report for Arrow Leadership
-
-
-
 
 **<h2> 🤳 Connect with me:</h2>**
 
