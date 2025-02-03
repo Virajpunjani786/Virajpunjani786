@@ -98,10 +98,10 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 - Elastic Stack SIEM Configuration and Management
 - Virtual Cyber security Case Program for Anz, Telestra and Deloitte
 - Secure Access with Azure Active Directory
-- Build a Phishing Attack Simulator
-- Build Own IT Ticketing System
-- Build your own Host-based Intrusion Detection System (IDS)
-- Systems Project for Captivate Connect
+- Built a Phishing Attack Simulator
+- Built Own IT Ticketing System
+- Built your own Host-based Intrusion Detection System (IDS)
+- Systems Project for Captivate Connect- IT Infrastructure Migration & Security Enhancement 
 - Risk Assessment Audit & Report for Arrow Leadership
 
 **<h2> 🤳 Connect with me:</h2>**
