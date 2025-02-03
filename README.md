@@ -39,8 +39,7 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />  
 <img src="https://img.shields.io/badge/-Nmap-004571?&style=for-the-badge&logo=nmap&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-MITRE_ATT&CK-EF3B2D?&style=for-the-badge&logo=mitre&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Cyber_Kill_Chain-FF6F00?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 ---
@@ -48,6 +47,8 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 ### ⚙ Other Security & Compliance Tools
 <div>
 <img src="https://img.shields.io/badge/-NIST-000000?&style=for-the-badge&logoColor=white" />  
+<img src="https://img.shields.io/badge/-MITRE_ATT&CK-EF3B2D?&style=for-the-badge&logo=mitre&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Cyber_Kill_Chain-0057B8?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISO_27001-0057B8?&style=for-the-badge&logoColor=white" />
 </div>
 
