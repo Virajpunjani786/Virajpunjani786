@@ -2,7 +2,7 @@
 
 Welcome to my space:
 
-Aspiring cybersecurity professional with 1+ years of experience through internships and personal projects. Skilled in SOC operations, incident detection & response, and threat management using SIEM tools like Splunk, Microsoft Defender, Sentinel One, and Elastic Stack. Currently pursuing Security+, SC-200, and BTL1 certifications, aiming to transition into a SOC Tier 1 Analyst role.
+Aspiring cybersecurity professional with 1+ years of experience through internships and personal projects. Skilled in SOC operations, incident detection & response, and threat management using SIEM tools like Splunk, Microsoft Defender, Sentinel One, and Elastic Stack. Currently pursuing Security+, SC-200, and BTL1 certifications, aiming to transition into a Junior Security Analyst role to utilise my skill set for individual and organisation growth.
 
 ## Skills
 
