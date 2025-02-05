@@ -8,7 +8,7 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Elastic Stack SIEM Configuration and Management        | <a href="https://google.com">Home Lab SIEM Setup</a> |
+| Elastic Stack SIEM Configuration and Management        | <a href="https://github.com/Virajpunjani786/Elastic-SIEM-Configuration-and-Management-Lab-using-the-ELK-Stack">Home Lab SIEM Setup</a> |
 | Malware Analysis and Digital Forensics Using Splunk    | <a href="https://google.com">BOTSv1 Threat Analysis</a> |
 | Active Directory Attack Simulation & Threat Detection  | <a href="https://google.com">AD Threat Detection Lab</a> |
 | Social Engineering Investigation                       | <a href="https://google.com">ANZ Remote Phishing Analysis</a> |
