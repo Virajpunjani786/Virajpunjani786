@@ -20,7 +20,7 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />  
 <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />  
 <img src="https://img.shields.io/badge/-MS_365_Defender-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-SentinelOne-5C2D91?&style=for-the-badge&logo=sentinelone&logoColor=white" /> 
+
 </div>
 
 ---
@@ -73,11 +73,7 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 
 ## Certifications
 
-<div>
-
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-0000FF?&style=for-the-badge&logo=Security-blue-team&logoColor=white" />
+<div>\
 
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-F4B400?&style=for-the-badge&logo=Google&logoColor=white" />
 
@@ -89,19 +85,8 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 
 <img src="https://img.shields.io/badge/-SOC%20Analyst%20Pathway%20by%20Let's%20Defend-00A4A6?&style=for-the-badge&logo=Let's%20Defend&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-Splunk%20Certified%20Cybersecurity%20Defense%20Analyst-0072CE?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
 
-## Projects
-- Playbook Creation for Suspicious Country Access Alert
-- Elastic Stack SIEM Configuration and Management
-- Virtual Cyber security Case Program for Anz, Telestra and Deloitte
-- Secure Access with Azure Active Directory
-- Built a Phishing Attack Simulator
-- Built Own IT Ticketing System
-- Built your own Host-based Intrusion Detection System (IDS)
-- Systems Project for Captivate Connect- IT Infrastructure Migration & Security Enhancement 
-- Risk Assessment Audit & Report for Arrow Leadership
+
 
 **<h2> 🤳 Connect with me:</h2>**
 
