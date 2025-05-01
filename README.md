@@ -2,7 +2,7 @@
 
 Welcome to my space:
 
-Aspiring cybersecurity professional with 1+ years of experience through internships and personal projects. Skilled in SOC operations, incident detection & response, and threat management using SIEM tools like Splunk, Microsoft Defender, Sentinel One, and Elastic Stack. Currently pursuing Security+, SC-200, and BTL1 certifications, aiming to transition into a Junior Security Analyst role to utilise my skill set for individual and organisation growth.
+A passionate Cybersecurity Analyst with 1+ years of experience in Security Operations and GRC, specializing in real-time threat detection, incident response, and vulnerability remediation. Known for clear communication with both technical and non-technical stakeholders, and for delivering rapid, business-aligned security outcomes. Skilled in SIEM, IDS/IPS, EDR Solution, and vulnerability management tools including Microsoft 365 Defender, Splunk, and Nessus. Brings strong analytical and problem-solving capabilities, with the ability to think critically under pressure and act swiftly during security incidents. Currently pursuing SC-200 and Tenable VM specialist certifications to deepen expertise in detection engineering and asset discovery.
 
 ## Skills
 
@@ -12,7 +12,7 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 | Microsoft Sentinel                        | <a href="https://github.com/Virajpunjani786/Microsoft-Sentinel-SIEM-Lab">Real Time Attack Detection</a> |
 | Penetration Testing & Vulnerability Assessment         | <a href="https://github.com/Virajpunjani786/Peneteration-Testing-Report">Latrobe University Pentest Report</a> |
 | IT Server Migration & Security Enhancement     | <a href="https://github.com/Virajpunjani786/Server-migration--Captivate-Connect">Captivate Connect Systems Project</a> |
-| Risk Analysis & Security Audit                         | <a href="">Arrow Leadership</a>|
+| Risk Analysis & Security Audit                         | <a href="https://github.com/Virajpunjani786/Arrow-leaderships-risk-analysis-report">Arrow Leadership</a>|
 
 ## Tools
 🔍 SIEM Tools
