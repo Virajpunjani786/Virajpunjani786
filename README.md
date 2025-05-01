@@ -8,8 +8,8 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk    | <a href="https://google.com">BOTSv1 Threat Analysis</a> |
-| Social Engineering Investigation                       | <a href="https://google.com">ANZ Remote Phishing Analysis</a> |
+| Splunk    | <a href="https://github.com/Virajpunjani786/Splunk-Boss_of_the_SOC_Version-1">BOTSv1 Threat Analysis</a> |
+| Real Time Attack Detection Using Microsoft Sentinel-                        | <a href="https://google.com">ANZ Remote Phishing Analysis</a> |
 | Penetration Testing & Vulnerability Assessment         | <a href="https://google.com">Latrobe University Pentest Report</a> |
 | IT Infrastructure Migration & Security Enhancement     | <a href="https://google.com">Captivate Connect Capstone Project</a> |
 | Risk Assessment & Compliance                          | <a href="https://google.com">Arrow Leadership Security Audit</a>|
