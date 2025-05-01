@@ -8,8 +8,7 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Elastic Stack SIEM Configuration and Management        | <a href="https://github.com/Virajpunjani786/Elastic-SIEM-Configuration-and-Management-Lab-using-the-ELK-Stack">Home Lab SIEM Setup</a> |
-| Malware Analysis and Digital Forensics Using Splunk    | <a href="https://google.com">BOTSv1 Threat Analysis</a> |
+| Splunk    | <a href="https://google.com">BOTSv1 Threat Analysis</a> |
 | Social Engineering Investigation                       | <a href="https://google.com">ANZ Remote Phishing Analysis</a> |
 | Penetration Testing & Vulnerability Assessment         | <a href="https://google.com">Latrobe University Pentest Report</a> |
 | IT Infrastructure Migration & Security Enhancement     | <a href="https://google.com">Captivate Connect Capstone Project</a> |
