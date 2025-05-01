@@ -8,11 +8,11 @@ Aspiring cybersecurity professional with 1+ years of experience through internsh
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk    | <a href="https://github.com/Virajpunjani786/Splunk-Boss_of_the_SOC_Version-1">BOTSv1 Threat Analysis</a> |
+| Splunk SIEM    | <a href="https://github.com/Virajpunjani786/Splunk-Boss_of_the_SOC_Version-1">BOTSv1 Threat Analysis</a> |
 | Microsoft Sentinel                        | <a href="https://github.com/Virajpunjani786/Microsoft-Sentinel-SIEM-Lab">Real Time Attack Detection</a> |
-| Penetration Testing & Vulnerability Assessment         | <a href="https://google.com">Latrobe University Pentest Report</a> |
-| IT Infrastructure Migration & Security Enhancement     | <a href="https://github.com/Virajpunjani786/Server-migration--Captivate-Connect">Captivate Connect Capstone Project</a> |
-| Risk Assessment & Compliance                          | <a href="https://google.com">Arrow Leadership Security Audit</a>|
+| Penetration Testing & Vulnerability Assessment         | <a href="">Latrobe University Pentest Report</a> |
+| IT Server Migration & Security Enhancement     | <a href="https://github.com/Virajpunjani786/Server-migration--Captivate-Connect">Captivate Connect Systems Project</a> |
+| Risk Analysis & Security Audit                         | <a href="">Arrow Leadership</a>|
 
 ## Tools
 🔍 SIEM Tools
