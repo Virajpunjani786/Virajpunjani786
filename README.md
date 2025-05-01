@@ -13,7 +13,7 @@ A passionate Cybersecurity Analyst with 1+ years of experience in Security Opera
 | Penetration Testing & Vulnerability Assessment         | <a href="https://github.com/Virajpunjani786/Peneteration-Testing-Report">Latrobe University Pentest Report</a> |
 | IT Server Migration & Security Enhancement     | <a href="https://github.com/Virajpunjani786/Server-migration--Captivate-Connect">Captivate Connect Systems Project</a> |
 | Risk Analysis & Security Audit                         | <a href="https://github.com/Virajpunjani786/Arrow-leaderships-risk-analysis-report">Arrow Leadership</a>|
-| Networking Potocols                       | <a href="https://github.com/Virajpunjani786/Attacks-On-TCP-IP-Protocol">Attacks On The TCP/IP Protocol Stack</a
+| Networking Potocols                       | <a href="https://github.com/Virajpunjani786/Attacks-On-TCP-IP-Protocol">Attacks On The TCP/IP Protocol Stack</a>|
 
 ## Tools
 🔍 SIEM Tools
