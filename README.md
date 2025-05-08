@@ -2,7 +2,7 @@
 
 Welcome to my space:
 
-A passionate Cybersecurity Analyst with 1+ years of experience in Security Operations and GRC, specializing in real-time threat detection, incident response, and vulnerability remediation. Known for clear communication with both technical and non-technical stakeholders, and for delivering rapid, business-aligned security outcomes. Skilled in SIEM, IDS/IPS, EDR Solution, and vulnerability management tools including Microsoft 365 Defender, Splunk, and Nessus. Brings strong analytical and problem-solving capabilities, with the ability to think critically under pressure and act swiftly during security incidents. Currently pursuing SC-200 and Tenable VM specialist certifications to deepen expertise in detection engineering and asset discovery.
+A passionate Cybersecurity Analyst with 1+ years of experience in Security Operations and GRC, specializing in real-time threat detection, incident response, and vulnerability remediation. Known for clear communication with both technical and non-technical stakeholders, and for delivering rapid, business-aligned security outcomes. Skilled in SIEM, IDS/IPS, EDR Solution, and vulnerability management tools including Microsoft 365 Defender, Splunk, and Nessus. Brings strong analytical and problem-solving capabilities, with the ability to think critically under pressure and act swiftly during security incidents. Currently pursuing BTL1, Az-900, SC-200 and Tenable VM specialist certifications to deepen expertise in detection engineering and asset discovery.
 
 ## Skills
 
