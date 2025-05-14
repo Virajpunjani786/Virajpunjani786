@@ -2,7 +2,7 @@
 
 Welcome to my space:
 
-A passionate Cybersecurity Analyst with 1+ years of experience in Security Operations and GRC, specializing in real-time threat detection, incident response, and vulnerability remediation. Known for clear communication with both technical and non-technical stakeholders, and for delivering rapid, business-aligned security outcomes. Skilled in SIEM, IDS/IPS, EDR Solution, and vulnerability management tools including Microsoft 365 Defender, Splunk, and Nessus. Brings strong analytical and problem-solving capabilities, with the ability to think critically under pressure and act swiftly during security incidents. Currently pursuing BTL1, Az-900, SC-200 and Tenable VM specialist certifications to deepen expertise in detection engineering and asset discovery.
+A passionate Cybersecurity Analyst with 2 + years of experience in Security Operations and GRC, specializing in real-time threat detection, incident response, and vulnerability remediation. Known for clear communication with both technical and non-technical stakeholders, and for delivering rapid, business-aligned security outcomes. Skilled in SIEM, IDS/IPS, EDR Solution, and vulnerability management tools including Microsoft 365 Defender, Splunk, and Nessus. Brings strong analytical and problem-solving capabilities, with the ability to think critically under pressure and act swiftly during security incidents. Currently pursuing BTL1, Az-900, SC-200 and Tenable VM specialist certifications to deepen expertise in detection engineering and asset discovery.
 
 ## Skills
 
@@ -79,13 +79,7 @@ A passionate Cybersecurity Analyst with 1+ years of experience in Security Opera
 
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-F4B400?&style=for-the-badge&logo=Google&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-Microsoft%20Certified%20Security%2C%20Compliance%20and%20Identity%20Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-Microsoft%20365%20Certified%20Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-Microsoft%20Certified%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-SOC%20Analyst%20Pathway%20by%20Let's%20Defend-00A4A6?&style=for-the-badge&logo=Let's%20Defend&logoColor=white" />
 
 
 
