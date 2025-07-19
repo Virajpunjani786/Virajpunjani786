@@ -66,7 +66,7 @@ Thanks for stopping by—scroll below to check out some of my project work, hand
 
 ### ⚙️ GRC & Compliance:
 <div>
-<img src="https://img.shields.io/badge/-NIST-CSF-000000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-NIST-000000?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISO_27001-0057B8?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-PCI_DSS-0057B8?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Essential_8-0A174E?&style=for-the-badge&logoColor=white" />
@@ -84,7 +84,7 @@ Thanks for stopping by—scroll below to check out some of my project work, hand
 
 ---
 
-## 🎯 Currently Pursuing Certifications
+## 🎯 Ongoing Certifications
 
 - Google Cybersecurity Certificate  
 - GRC Mastery/ISO-27001 Lead Implementer training by Unix-guy  
